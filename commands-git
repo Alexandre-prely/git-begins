@@ -5,3 +5,5 @@ git clone [URL]
 1. git add commands-git
 2. git commit -m "Ajoute le fichier des commandes de base"
 3. git push --set-upstream origin master (ou main)
+➔ Pull un repository (récupérer les modifications distantes) :
+git pull
